@@ -138,7 +138,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
                                       ),
                                       const SizedBox(height: 15),
                                       Text(
-                                        'Select Product Images',
+                                        'Select Product Images ',
                                         style: TextStyle(
                                           fontSize: 15,
                                           color: Colors.grey.shade400,
